@@ -1,16 +1,16 @@
-## Hi there 👋
+# 💀 🔥 DeSTroY 🔥
 
-<!--
-**deSTroY81Marauder/deSTroY81Marauder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AI Security Researcher & Ethical Hacker (Canada)**  
+Participant du **Google VRP 2025** — Spécialisé en sécurité des modèles d'intelligence artificielle.
 
-Here are some ideas to get you started:
+## 🔥Domaines🔥
+- Sécurité des LLMs (Gemini, Mistral, LLaMA…)
+- Prompt injection & adversarial prompts
+- Détection de fuites de contexte et tests défensifs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔥Objectif🔥
+Contribuer à renforcer la sécurité et la fiabilité des IA modernes, toujours dans un cadre éthique et responsable.
+
+---
+
+> « 🔥Le vrai hacker ne détruit pas, il éclaire les zones d’ombre. 🔥»
